@@ -1,0 +1,3 @@
+export PORT=8080
+export SESSION_SECRET=
+export COOKIE_SECURE=
